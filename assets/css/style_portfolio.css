@@ -1,0 +1,77 @@
+
+h6{
+  Color: #ffffff;
+  background:#e1e1e1;
+  font-size: 28;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+float: left;
+}
+
+.content_Area_Portfolio {
+  position: relative;
+  color: #696969;
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-left: 125px;
+  float: left;
+  width: 960px;
+  height: 950px;
+}
+
+.box_1_frame_P {
+  position: absolute;
+  top: 10px;
+  width: 650px;
+  height: 900px;
+  background: #ffffff;
+  border: 2px solid #e1e1e1;
+  border-bottom: 1px solid #e1e1e1;
+  float: left;
+}
+
+.align_photo_p {
+  width: 270px;
+  height: 215px;
+  float: left;
+}
+
+.box_1_protfolio,
+.box_3_protfolio,
+.box_5_protfolio{
+position: relative;
+top: 50px;
+width: 270px;
+height: 215px;
+margin-right: 30px;
+margin-bottom: 50px;
+float: left;
+}
+
+.box_2_protfolio,
+.box_4_protfolio{
+position: relative;
+top: 50px;
+width: 270px;
+height: 215px;
+margin-left: 30px;
+margin-bottom: 50px;
+float: left;
+}
+
+.content_wraper{
+  width:80%;
+  margin: 4% 10% 5% 10%;
+}
+
+.content_wraper img{
+  width: 100%
+}
+.text_wraper{
+width:100%;
+position: relative;
+margin-top: -40;
+}
+
+.text_wraper h6{
+  text-align: center;
+}
