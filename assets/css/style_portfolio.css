@@ -1,20 +1,20 @@
-
-h6{
+h6 span {
   Color: #ffffff;
-  background:#e1e1e1;
+  background: #4aaaa5;
   font-size: 28;
   font-family: 'Georgia', Times, Times New Roman, serif;
-float: left;
-}
-.span{
+  text-align: center;
   position: relative;
-  top: 50px;
+  top: -60px;
   width: 270px;
-  height: 215px;
+  height: 30px;
+  padding-top: 10px;
   margin-right: 30px;
   margin-bottom: 50px;
   float: left;
 }
+
+.span {}
 
 .content_Area_Portfolio {
   position: relative;
@@ -44,25 +44,22 @@ float: left;
   float: left;
 }
 
-.box_1_protfolio,
-.box_3_protfolio,
-.box_5_protfolio{
-position: relative;
-top: 50px;
-width: 270px;
-height: 215px;
-margin-right: 30px;
-margin-bottom: 50px;
-float: left;
+.box_1_protfolio, .box_3_protfolio, .box_5_protfolio {
+  position: relative;
+  top: 50px;
+  width: 270px;
+  height: 215px;
+  margin-right: 30px;
+  margin-bottom: 50px;
+  float: left;
 }
 
-.box_2_protfolio,
-.box_4_protfolio{
-position: relative;
-top: 50px;
-width: 270px;
-height: 215px;
-margin-left: 30px;
-margin-bottom: 50px;
-float: left;
+.box_2_protfolio, .box_4_protfolio {
+  position: relative;
+  top: 50px;
+  width: 270px;
+  height: 215px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+  float: left;
 }
